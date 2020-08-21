@@ -43,6 +43,6 @@ The file names for the Fortnightly reflect only the DPD ID for each issue and th
   e.g. 125835_djvu.txt 
 
 
-## METHODOLGICAL INFORMATION
+## METHODOLOGICAL INFORMATION
 
 10. **Description of methods used for collection/generation of data:** These files were extracted using the Internet Archive’s Python library
