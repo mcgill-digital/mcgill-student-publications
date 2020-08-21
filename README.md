@@ -35,6 +35,7 @@ As such, McGillLibrary-university-gazette contains 107 files and mcgill-fortnigh
 
 9. **File naming conventions:**
 The file names for the Gazette reflect publication name, volume and issue number,  and date of publication. The final number refers to the inhouse database used to track digitization activity (DPD ID).
+
 Djvu indicates that the original scanned document was stored in a DjVu file format.
   e.g. mcgill-university-gazette-v07-n01-november-1-1883_djvu.txt
   
